@@ -1,8 +1,9 @@
 console.log(
-    document.getElementById("time-pequeno")
+   `sem innerHTML`,document.getElementById("time-pequeno")
+   // sem colocar o .innerHTML nao exibi a tage 
 );
 
 
 console.log( 
-    document.getElementById("time-pequeno").innerHTML
+  `com innerHTML`, document.getElementById("time-pequeno").innerHTML
 );
