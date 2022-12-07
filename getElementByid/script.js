@@ -5,5 +5,5 @@ console.log(
 
 
 console.log( 
-  `com innerHTML`, document.getElementById("time-pequeno").innerHTML
+ 'com innerHTML', document.getElementById("time-grande").innerHTML
 );
