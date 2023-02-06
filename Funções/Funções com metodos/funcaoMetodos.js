@@ -7,8 +7,3 @@ a.push(1,2,3,4,5) // variavel a recebendo elementos atraves do metado PUSH()
 a.reverse() // invertendo os valores dos atributos com o metado REVERSE()
 
 console.log(a); 
-
-
-
-// Tambem podemos criar nossos próprios metados. A palavra 'THIS' se refere ao objeto onde esta se referindo
-// vejamos ha um exemplo
